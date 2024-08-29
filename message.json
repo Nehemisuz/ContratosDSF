@@ -1,3 +1,6 @@
 {
-    "message": "Este es un mensaje inicial"
+  "message": "Este es un mensaje inicial",
+  "messages": [
+    "que tal"
+  ]
 }
